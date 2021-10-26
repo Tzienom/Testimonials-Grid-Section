@@ -23,8 +23,6 @@ body  {
     background: var(--light-grayish-blue);
 }
 
-main  { margin: 7rem 1rem; }
-
 img  { 
     border-radius: 50%;
     max-width: 100%; 
@@ -45,6 +43,7 @@ p  { line-height: 1.7em; }
 main  {
     display: grid;
     grid-gap: 1em;
+    margin: 7rem 1rem;
 }
 
 .container  {
